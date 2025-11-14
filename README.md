@@ -280,7 +280,7 @@ Contributions are welcome! Please follow these guidelines:
 3. Run tests and ensure CI passes.
 4. Be respectful and follow the Code of Conduct.
 
-Suggested workflow:
+## Suggested workflow:
 - Open an issue describing the feature or bug.
 - Discuss design in the issue if it’s a larger change.
 - Submit a PR that references the issue.
